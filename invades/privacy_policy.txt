@@ -1,0 +1,31 @@
+**Privacy Policy for Invades: Battlefront**
+
+**Last Updated: 09/25/2023**
+
+Invades: Battlefront's developer is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share information when you use our mobile game, Invades: Battlefront (the "Game"). Please read this policy carefully.
+
+**1. Information We Collect**
+
+The Game itself does not collect any personal information or data from its users.
+
+However, we use Unity's services, which may collect and process user data as described in Unity's Privacy Policy. We recommend that you review Unity's Privacy Policy to understand how they handle data: https://unity.com/legal/privacy-policy.
+
+**2. How We Use Information**
+
+Since we do not collect any user data within the Game, we do not use any data for our purposes.
+
+**3. Sharing of Information**
+
+As we do not collect user data, we do not share any information with third parties.
+
+**4. Children's Privacy**
+
+The Game is not intended for children under the age of 9. We do not knowingly collect any personal information from children under 9. If you believe that we may have unintentionally collected such information, please contact us, and we will promptly delete it.
+
+**5. Changes to This Privacy Policy**
+
+We may update our Privacy Policy to reflect changes to our practices or for other operational, legal, or regulatory reasons. We will provide notice of any material changes by posting the revised policy on our website or within the Game.
+
+**6. Contact Us**
+
+If you have any questions or concerns about this Privacy Policy, please contact us at tranbhan@gmail.com
