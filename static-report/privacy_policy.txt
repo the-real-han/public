@@ -1,0 +1,32 @@
+Privacy Policy for Rickcloud-Wiki-to-Static-Report
+
+We respect your privacy and are committed to protecting any personal information you may provide while using our Rickcloud-Wiki-to-Static-Report extension. This Privacy Policy outlines how we collect, use, and safeguard your information.
+
+Information Collection and Use:
+
+Rickcloud-Wiki-to-Static-Report does not collect or store any personal information from its users.
+The extension operates entirely on the client-side, and all features are locally executed within the user's browser without any data transmission to external servers.
+
+Usage Data:
+
+Rickcloud-Wiki-to-Static-Report does not track or collect any usage data or analytics.
+We do not use cookies or any other tracking mechanisms to gather information about your browsing activities.
+
+Security:
+
+We take appropriate security measures to protect any non-personal information within the extension.
+However, please note that as with any online service, no method of data transmission or storage is 100% secure, and we cannot guarantee the absolute security of any information provided or transmitted through the extension.
+
+Third-Party Links:
+
+Rickcloud-Wiki-to-Static-Report may contain links to third-party websites or services that have their own privacy policies.
+We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+Updates to Privacy Policy:
+
+We may update our Privacy Policy from time to time. Any changes will be reflected on this page with a revised "Last Updated" date.
+
+Contact Us:
+
+If you have any questions or concerns regarding this Privacy Policy or the use of your information, please contact us at tranbhan@gmail.com
+By using Rickcloud-Wiki-to-Static-Report, you consent to this Privacy Policy and agree to the terms outlined herein.
